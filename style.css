@@ -1,0 +1,40 @@
+img {
+    height: auto;
+    width:400px;
+}
+
+a {
+    color:white
+}
+
+body{
+    background-color:rgba(245, 245, 245, 0.897)
+}
+button {
+    font-weight: bold;
+    background-color: black;
+}
+
+h1 {
+    color:white;
+    background-color: black;
+}
+
+h6 {
+    color:white;
+    background-color: black;
+    font-weight: lighter;
+    font-size: small;
+    text-align: center;
+}
+
+.center-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center{
+    text-align: center;
+}
